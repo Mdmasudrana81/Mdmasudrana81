@@ -19,7 +19,7 @@ I'm focused on building powerful software applications. Experienced in Python pr
 
 - 🧑‍🎓 I’m an Undergraduate at **B.Sc. (Hon's) in CSE**
 
-- 💬 Ask me about **Python & Django**
+- 💬 Ask me about **Data entry and process**
 
 - 📫 How to reach me **masudranasumon795@gmail.com **
   
